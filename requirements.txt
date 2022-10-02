@@ -30,9 +30,8 @@ urllib3
 Werkzeug
 yarg
 
-flask-login
+
 requests
 
-oauthlib
-pyOpenSSL
+
 
